@@ -34,5 +34,4 @@ This profile is a reflection of my growth, technical capabilities, and problem-s
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [Your Profile Link]
-- **Email:** [Your Email Address] claire
+- **Email:** [clairenjoki2022@gmail.com]
