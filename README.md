@@ -15,11 +15,10 @@ I am an ICT professional with a strong foundation in programming and system admi
 **Programming & Systems:**
 - Object-Oriented Programming (OOP)
 - Internet-Based Programming & Web Dev
-- Operating Systems & System Administration
 
 **Data Analytics & Visualization:**
-- SQL
-- PowerBI & Tableau
+- database and querying (sql)
+- python and scripting
 - Excel (Advanced Data Modeling)
 
 ---
